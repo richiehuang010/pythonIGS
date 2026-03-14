@@ -1,0 +1,8 @@
+Array : 
+    .append
+    .insert
+    .extend
+    .remove
+    .pop
+    .sort
+    index = arr[3]
